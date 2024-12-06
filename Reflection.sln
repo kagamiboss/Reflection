@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reflection", "Reflection\Reflection.vcxproj", "{62DCA858-59D7-4BBA-B0B6-D955237469CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReflectionLib", "ReflectionLib\ReflectionLib.vcxproj", "{A6C78C11-BE03-433D-8732-64344D4D2BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DCA858-59D7-4BBA-B0B6-D955237469CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62DCA858-59D7-4BBA-B0B6-D955237469CF}.Debug|Win32.Build.0 = Debug|Win32
+		{62DCA858-59D7-4BBA-B0B6-D955237469CF}.Release|Win32.ActiveCfg = Release|Win32
+		{62DCA858-59D7-4BBA-B0B6-D955237469CF}.Release|Win32.Build.0 = Release|Win32
+		{A6C78C11-BE03-433D-8732-64344D4D2BB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6C78C11-BE03-433D-8732-64344D4D2BB8}.Debug|Win32.Build.0 = Debug|Win32
+		{A6C78C11-BE03-433D-8732-64344D4D2BB8}.Release|Win32.ActiveCfg = Release|Win32
+		{A6C78C11-BE03-433D-8732-64344D4D2BB8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
